@@ -1,0 +1,54 @@
+.center{
+    margin-top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.searchbutton{
+    padding-top: 2px;
+    width: 150px;
+    padding: 8px;
+    margin-left: 15px;
+    flex-wrap: wrap;
+    min-width: 60px;
+}
+.nav{
+    text-align: right;
+}
+.nav li{
+    display: inline-block;
+    padding: 10px 5px;
+}
+.searchBar{
+    border-radius: 20px;
+    margin : 10px;
+    padding: 10px;
+    border-style: solid;
+    width: 450px;
+    display: block;
+}
+.image{
+    width: 400px;
+    margin: 10px;
+    padding-bottom: 0px;
+}
+
+h3{
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 0px;
+    margin: 0%;
+}
+.textinput{
+    padding: 5px;
+    margin: 10px;
+    margin-right: 20px;
+    width: 500px;
+}
+.adsearchbutton{
+    background-color: rgba(0, 98, 255, 0.937);
+    border: 1px solid;
+    color: black;
+    height: 30px;
+    display: flex;
+}
+
